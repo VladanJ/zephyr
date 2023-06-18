@@ -2,7 +2,6 @@
 #define OWN_THREAD_H_INCLUDED
 
 
-//#include <pthread.h>
 #include <zephyr/kernel.h>
 
 
